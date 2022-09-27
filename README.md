@@ -10,28 +10,50 @@ The Music Instruments Review Dataset was extracted and loaded into Google Colabs
 
 1. **FULL MUSIC INSTRUMENTS DATA TABLE**
 
+![D1_01_DF](https://user-images.githubusercontent.com/106561880/192647928-99f5b369-1146-411e-a77d-cd671515d2f0.png)
+
 2. **CUSTOMER ID REVIEW COUNT**
+
+![D1_02_Customers](https://user-images.githubusercontent.com/106561880/192647956-d88e7881-20ac-4af5-858e-9ee9a5220ba9.png)
 
 3. **PRODUCTS TABLE**
 
+![D1_03_Products](https://user-images.githubusercontent.com/106561880/192647969-9c7e4478-b039-4958-a8d6-297fc3bd6453.png)
+
 4. **REVIEW ID TABLE**
+
+![D1_04_Review](https://user-images.githubusercontent.com/106561880/192647989-92caa9d4-0dda-4b5d-8acf-91faa346fe72.png)
 
 5. **VINE TABLE**
 
+![D1_05_Vine](https://user-images.githubusercontent.com/106561880/192648001-310d07f5-90ab-4158-ac86-44ee833fa0fe.png)
+
 6. **CUSTOMER ID TABLE LOADED TO PGADMIN**
+
+![D1_08_Customers](https://user-images.githubusercontent.com/106561880/192648022-b7b581dd-646d-44cd-8818-9c9b447cdcc3.png)
 
 7. **PRODUCTS TABLE LOADED TO PGADMIN**
 
+![D1_07_Products](https://user-images.githubusercontent.com/106561880/192648039-61f04ab9-f3dc-4b8f-a597-a0749537e473.png)
+
 8. **REVIEW ID TABLE LOADED TO PGADMIN**
 
+![D1_06_Review](https://user-images.githubusercontent.com/106561880/192648093-5de03622-504d-49e2-86c0-660865c076e0.png)
+
 9. **VINE TABLE LOADED TO PGADMIN**
+
+![D1_09_Vine](https://user-images.githubusercontent.com/106561880/192648108-1ac725f8-f801-4e51-82ac-3cf49a1f68d9.png)
 
 ## Deliverable 2 Results
 Vine Table was exported from pgAdmin as a csv file, then loaded into Jupyter Notebook.  Summary data was compiled for Vine Reviews and Non-Vine Reviews, showing the number of 5 star ratings, number of total ratings, and the percentage of 5 star ratings to the total.  To help normalize the data, only products with at least 20 reviews were filtered in the dataset.
 
 1. **VINE RATINGS SUMMARY**
 
+![D2_01_Vine](https://user-images.githubusercontent.com/106561880/192648128-d7ee4672-4ab3-43b9-b770-122d290ade01.png)
+
 2. **NON-VINE RATINGS SUMMARY**
+
+![D2_02_NonVine](https://user-images.githubusercontent.com/106561880/192648150-83047640-d933-4fd6-be98-f7744211fe0f.png)
 
 ## Final Analysis and Summary
 As can be seen from the Analysis images from above, the following points can be made:
